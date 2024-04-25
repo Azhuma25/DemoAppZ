@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         view.backgroundColor = UIColor.blue
-        view.alpha = 0.3
     }
 
 
